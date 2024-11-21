@@ -1,0 +1,19 @@
+.historico-container {
+    margin-top: 20px;
+  }
+  
+  .historico-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .historico-list li {
+    background: #e9f7ff;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+  }
+  
+  .historico-list li:nth-child(even) {
+    background: #cfefff;
+  }  

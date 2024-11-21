@@ -1,0 +1,17 @@
+.alertas-container {
+    margin-top: 20px;
+  }
+  
+  .alerta {
+    background-color: #ffcccc;
+    color: #b20000;
+    padding: 10px;
+    border: 1px solid #b20000;
+    border-radius: 5px;
+    margin: 10px 0;
+  }
+  
+  .alerta strong {
+    font-weight: bold;
+  }
+  

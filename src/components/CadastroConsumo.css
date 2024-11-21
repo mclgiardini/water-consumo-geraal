@@ -1,0 +1,13 @@
+.cadastro-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cadastro-form input {
+    margin-bottom: 15px;
+  }
+  
+  .cadastro-form button {
+    align-self: flex-start;
+  }
+  
